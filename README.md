@@ -1,3 +1,4 @@
+- SCUT
 - Retired icpc participant
 
 <!---
